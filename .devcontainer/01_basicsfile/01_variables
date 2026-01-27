@@ -1,0 +1,14 @@
+const accountId = 11324;
+let accountEmail="sameersingh232@gmail.com";
+var accountPassword="132424";
+accountCity="GreateNoida";
+
+// accountId = 2 //not allowed
+
+accountEmail="nfdnf.com"
+accountPassword="dmsmk"
+accountCity="Delhi"
+
+console.log(accountId);
+
+console.table([accountId, accountEmail, accountPassword, accountCity]);
