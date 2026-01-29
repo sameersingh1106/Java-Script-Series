@@ -21,5 +21,14 @@ const myfunction=function(){
     console.log("Hello World");
 
 }
+console.log(typeof scoreValue);
 
-console.log(typeof outsideTemp);
+// ++++++++++
+
+// Stack(Primtive data types) vs Heap(Non-primitive data types)
+
+let myYoutubename="sameersingh"
+let anothername=myYoutubename
+
+console.log(anothername);
+console.log(myYoutubename);
